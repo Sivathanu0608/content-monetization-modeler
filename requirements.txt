@@ -1,2 +1,10 @@
-
-df
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mysql-connector-python
+joblib
+plotly
+openpyxl
